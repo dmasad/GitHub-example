@@ -2,11 +2,12 @@ package eg;
 
 public class Example {
 
-	/**
-	 * @param args
-	 */
+	int someNumber = 3;
+	
 	public static void main(String[] args) {
+		// Some sort of documentation
 		System.out.println("Hello world");
+		
 
 	}
 
